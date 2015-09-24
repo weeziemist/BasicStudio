@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>folder.jpg</file>
+        <file>volumeup.png</file>
+        <file>loopbar.jpg</file>
+        <file>spot.png</file>
+        <file>bluespot.png</file>
+        <file>panel.jpg</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>record.png</file>
+        <file>recording.png</file>
+        <file>loop.png</file>
+        <file>looping.png</file>
+        <file>blackkey.png</file>
+        <file>whitekey.png</file>
+    </qresource>
+</RCC>

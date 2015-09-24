@@ -1,0 +1,133 @@
+<RCC>
+    <qresource prefix="/default">
+        <file>default/Kick3.wav</file>
+        <file>default/Kick1.wav</file>
+        <file>default/Snare 1.wav</file>
+        <file>default/Hats10.wav</file>
+        <file>default/Perc 1.wav</file>
+        <file>default/Perc 5.wav</file>
+        <file>default/Perc 7.wav</file>
+        <file>default/Snare 8.wav</file>
+    </qresource>
+    <qresource prefix="/whoadaddy">
+        <file>whoadaddy/R and R Kick.wav</file>
+        <file>whoadaddy/Kick1.wav</file>
+        <file>whoadaddy/WAVs are Lame Snare.wav</file>
+        <file>whoadaddy/Hats10.wav</file>
+        <file>whoadaddy/Perc 1.wav</file>
+        <file>whoadaddy/Perc 5.wav</file>
+    </qresource>
+    <qresource prefix="/spiccoli">
+        <file>spiccoli/KOTOR Snare.wav</file>
+        <file>spiccoli/Oooooohhh Kick.wav</file>
+        <file>spiccoli/Be Nice Kick.wav</file>
+        <file>spiccoli/Blow it hat.wav</file>
+        <file>spiccoli/Ahem hat.wav</file>
+    </qresource>
+    <qresource prefix="/soundslikedrums">
+        <file>soundslikedrums/kick.wav</file>
+        <file>soundslikedrums/snare.wav</file>
+        <file>soundslikedrums/crash.wav</file>
+        <file>soundslikedrums/floor tom.wav</file>
+        <file>soundslikedrums/hhc.wav</file>
+        <file>soundslikedrums/rack tom.wav</file>
+        <file>soundslikedrums/ride.wav</file>
+    </qresource>
+    <qresource prefix="/sonic">
+        <file>sonic/Claps V3 16.wav</file>
+        <file>sonic/Claps V3 22.wav</file>
+        <file>sonic/Hi-Hats V3 07.wav</file>
+        <file>sonic/Kick V2 06.wav</file>
+        <file>sonic/Middle East Sounds V3 09.wav</file>
+        <file>sonic/Middle East Sounds V3 21.wav</file>
+        <file>sonic/Shakers V3 06.wav</file>
+        <file>sonic/Shakers V3 15.wav</file>
+    </qresource>
+    <qresource prefix="/nooffense">
+        <file>nooffense/1stKick.wav</file>
+        <file>nooffense/BaaaaZiiinnggg Snare.wav</file>
+        <file>nooffense/Hats 3.wav</file>
+        <file>nooffense/kick.wav</file>
+        <file>nooffense/Perc 12.wav</file>
+        <file>nooffense/Shaker again perc.wav</file>
+        <file>nooffense/Snare 8.wav</file>
+        <file>nooffense/Spit Up Snare.wav</file>
+    </qresource>
+    <qresource prefix="/ninja">
+        <file>ninja/17 Kick 3.wav</file>
+        <file>ninja/Baazacka! Kick.wav</file>
+        <file>ninja/Bad Breath Ninja Snare.wav</file>
+        <file>ninja/Bar perc.wav</file>
+        <file>ninja/Hats 3.wav</file>
+        <file>ninja/Spit Up Snare.wav</file>
+    </qresource>
+    <qresource prefix="/house">
+        <file>house/Clap happy perc.wav</file>
+        <file>house/Hats10.wav</file>
+        <file>house/Kick1.wav</file>
+        <file>house/Perc 4.wav</file>
+        <file>house/Perc 8.wav</file>
+        <file>house/R and R Kick.wav</file>
+        <file>house/Wang Snare.wav</file>
+    </qresource>
+    <qresource prefix="/mpc">
+        <file>mpc/MPC60 505 kick.wav</file>
+        <file>mpc/MPC60 606 Snr 1.wav</file>
+        <file>mpc/MPC60 707 da SD1.wav</file>
+        <file>mpc/MPC60 808 Da HH4 st.wav</file>
+        <file>mpc/MPC60 808 Da OH2 ST.wav</file>
+        <file>mpc/MPC60 808kick02.wav</file>
+        <file>mpc/MPC60 909 da RIDE st.wav</file>
+        <file>mpc/MPC60 909Tom01.wav</file>
+        <file>mpc/MPC60 909Tom03.wav</file>
+        <file>mpc/MPC60 909Tom05.wav</file>
+    </qresource>
+    <qresource prefix="/space1">
+        <file>space1/Drum01.wav</file>
+        <file>space1/Drum02.wav</file>
+        <file>space1/Drum03.wav</file>
+        <file>space1/Drum04.wav</file>
+        <file>space1/Drum05.wav</file>
+        <file>space1/Drum06.wav</file>
+        <file>space1/Drum07.wav</file>
+        <file>space1/Drum08.wav</file>
+        <file>space1/Drum09.wav</file>
+        <file>space1/Drum10.wav</file>
+    </qresource>
+    <qresource prefix="/space2">
+        <file>space2/Drum11.wav</file>
+        <file>space2/Drum12.wav</file>
+        <file>space2/Drum13.wav</file>
+        <file>space2/Drum14.wav</file>
+        <file>space2/Drum15.wav</file>
+        <file>space2/Drum16.wav</file>
+        <file>space2/Drum17.wav</file>
+        <file>space2/Drum18.wav</file>
+        <file>space2/Drum19.wav</file>
+        <file>space2/Drum20.wav</file>
+    </qresource>
+    <qresource prefix="/distorted1">
+        <file>distorted1/blip1.wav</file>
+        <file>distorted1/clap.wav</file>
+        <file>distorted1/cymbal1.wav</file>
+        <file>distorted1/hat-cls.wav</file>
+        <file>distorted1/hat-ped.wav</file>
+        <file>distorted1/kick.wav</file>
+        <file>distorted1/rim.wav</file>
+        <file>distorted1/snare1.wav</file>
+        <file>distorted1/tom1.wav</file>
+        <file>distorted1/tom2.wav</file>
+    </qresource>
+    <qresource prefix="/distorted2">
+        <file>distorted2/blip2.wav</file>
+        <file>distorted2/clap.wav</file>
+        <file>distorted2/cymbal2.wav</file>
+        <file>distorted2/hat-opn.wav</file>
+        <file>distorted2/hat-ped.wav</file>
+        <file>distorted2/kick.wav</file>
+        <file>distorted2/rim.wav</file>
+        <file>distorted2/snare2.wav</file>
+        <file>distorted2/tom2.wav</file>
+        <file>distorted2/tom3.wav</file>
+    </qresource>
+</RCC>
